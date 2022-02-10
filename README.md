@@ -1,13 +1,23 @@
-# BangkitGit
-Modul belajar Git &amp; Github dari Bangkit Dicoding
+# PengalamanBelajar
 
-1. 
-Test List
-- Item 1
-- Item 2
-- Item 3
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-2. 
-Test List 2
-- Item 1
-- Item 2
+
+**14 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+
+**15 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+
+  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+
+  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
+
+  * Belajar tipe data koleksi, seperti list, set, dan map.
